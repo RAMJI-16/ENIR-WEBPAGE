@@ -228,7 +228,8 @@ body{
 .column {
     flex: 33.33%;
     padding: 40%;
-    margin-top: 2000px;
+    margin-top: 200px;
+    border-top: 200px:
 }
 
 .seventh_slide{
