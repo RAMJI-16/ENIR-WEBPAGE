@@ -227,13 +227,13 @@ body{
 }
 .column {
     flex: 33.33%;
-    padding: 5px;
+    padding: 40%;
 }
 .seventh_slide{
     height: 1200px;
     width: 1500px;
     /* background-color: rgb(113, 232, 113); */
-    margin-top: 0px;
+    margin-top: 50px;
 }
 
 
