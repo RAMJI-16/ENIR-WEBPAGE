@@ -228,7 +228,9 @@ body{
 .column {
     flex: 33.33%;
     padding: 40%;
+    margin-top: 2000px;
 }
+
 .seventh_slide{
     height: 1200px;
     width: 1500px;
