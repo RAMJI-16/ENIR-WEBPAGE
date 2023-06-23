@@ -1,9 +1,8 @@
-*{
-    width: auto;
-}
+
 body{
     background-image: linear-gradient(to right,green,aqua);
-    width: auto;
+    background-repeat: no-repeat;
+
 }
 .first_slide{
     height: 730px;
@@ -171,7 +170,7 @@ body{
     padding-left: 100px;
 }
 .fifth_slide{
-    height: 1200px;
+    height: 1600px;
     width: 1500px;
     /* background-color: rgb(113, 232, 113); */
     margin-top: 0px;
@@ -227,14 +226,13 @@ body{
 }
 .column {
     flex: 33.33%;
-    padding: 40%;
+    padding: 5px;
 }
-
 .seventh_slide{
     height: 1200px;
     width: 1500px;
     /* background-color: rgb(113, 232, 113); */
-    margin-top: 400px;
+    margin-top: 0px;
 }
 
 
@@ -279,4 +277,16 @@ body{
 #videom{
     margin-left: 450px;
    
+}
+#img_1{
+    height: 300px;
+    width: 400px;
+    display: inline-block;
+    margin-left: 200px;
+}
+#img_2{
+    height: 300px;
+    width: 400px;
+    display: inline-block;
+    margin-left: 300px;
 }
